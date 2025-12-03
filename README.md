@@ -1,7 +1,7 @@
 SnatchoApp – Setup Instructions
 
 Open your terminal and go to the project folder:
-cd ecommerce_app
+cd ecommerce_bot
 
 Install all the required Python packages:
 pip install fastapi uvicorn google-search-results openai requests tiktoken
